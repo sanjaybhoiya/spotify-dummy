@@ -1,0 +1,9 @@
+NextJs
+React
+Debounce
+TailwindCSS
+spotify API
+oauth JWT
+access/refresh
+tokens
+.NextAuth
